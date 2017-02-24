@@ -1,0 +1,16 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>s</find>
+      <find>order_id</find>
+      <find>selectRefundByOrderId</find>
+      <find>queryRefundInfo</find>
+      <find>selectRefundInfo</find>
+      <find>queryFlightWorkformList</find>
+      <find>queryFlightWorkformCount</find>
+      <find>workformService</find>
+      <find>layout</find>
+      <find>自动出票添加采购单时组装价格信息</find>
+    </findStrings>
+  </component>
+</application>

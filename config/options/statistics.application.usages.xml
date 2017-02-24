@@ -1,0 +1,49 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Ant Build].hidden" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="36" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="9" />
+      <entry feature="execute.Application.Debug" count="3" />
+      <entry feature="execute.Application.Run" count="19" />
+      <entry feature="execute.JUnit.Debug" count="1" />
+      <entry feature="execute.JUnit.Run" count="4" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Compiler" count="1" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.Eclipse_Code_Formatter" count="1" />
+      <entry feature="ide.settings.Edit_File_Template" count="3" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="14" />
+      <entry feature="ide.settings.Font" count="4" />
+      <entry feature="ide.settings.Genymotion" count="1" />
+      <entry feature="ide.settings.Importing" count="1" />
+      <entry feature="ide.settings.Inspections" count="7" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Language_Injections" count="1" />
+      <entry feature="ide.settings.Live_Templates" count="10" />
+      <entry feature="ide.settings.Maven" count="5" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.Validation" count="2" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="idea.caches.invalidated" count="3" />
+      <entry feature="ideaapp.started" count="15" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="110" />
+      <entry feature="terminal.win" count="2" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA" count="5" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="2" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>

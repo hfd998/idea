@@ -1,0 +1,70 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="797" y="278" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="598" y="71" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="667" y="331" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="714" y="217" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1920.1080" x="540" y="168" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="791" y="403" />
+    <location key="SettingsEditor.0.0.1920.1080" x="357" y="131" />
+    <location key="new project wizard.0.0.1920.1080" x="556" y="109" />
+    <location key="#Tomcat_Server.0.0.1920.1080" x="926" y="404" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="168" />
+    <location key="#Notifications.0.0.1920.1080" x="709" y="240" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1223" y="429" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080" x="578" y="198" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="606" y="293" />
+    <location key="svn.repositoryBrowser.0.0.1920.1080" x="790" y="304" />
+    <location key="svn4idea.checkout.options.0.0.1920.1080" x="698" y="274" />
+    <location key="svn.upgradeDialog.0.0.1920.1080" x="764" y="309" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="368" y="57" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="803" y="216" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1920.1080" x="755" y="398" />
+    <location key="#Deployment.0.0.1920.1080" x="552" y="172" />
+    <location key="#Intentions.0.0.1920.1080" x="557" y="177" />
+    <location key="findTextDialog.0.0.1920.1080" x="714" y="233" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080" x="694" y="178" />
+    <location key="EditParametersPopupWindow.0.0.1920.1080" x="826" y="428" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1920.1080" x="724" y="425" />
+    <location key="com.intellij.openapi.vcs.changes.UnversionedViewDialog.0.0.1920.1080" x="822" y="243" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080" x="733" y="458" />
+    <location key="StructurePopup.0.0.1920.1080" x="722" y="303" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="456" y="130" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" x="718" y="251" />
+    <location key="VCS.ChangelistChooser.0.0.1920.1080" x="775" y="343" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1080" x="705" y="243" />
+    <location key="DiffContextDialog.0.0.1920.1080" x="198" y="0" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="509" y="245" />
+    <location key="#SQL_Dialects.0.0.1920.1080" x="538" y="342" />
+    <location key="deploy.picker.dialog.0.0.1920.1080" x="640" y="268" />
+    <location key="#app.0.0.1920.1080" x="667" y="160" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="222" />
+    <location key="#Edit_File_Template.0.0.1920.1080" x="711" y="262" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="690" y="268" />
+    <size key="new project wizard.0.0.1920.1080" width="987" height="801" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="528" height="122" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="271" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="271" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="271" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="271" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="250" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="250" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="250" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="250" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1167" height="816" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1876" height="271" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1876" height="271" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1876" height="271" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1876" height="271" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1876" height="250" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1876" height="250" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1876" height="250" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1876" height="250" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="488" height="444" />
+    <size key="javadoc.popup.0.0.1920.1080" width="602" height="427" />
+    <size key="StructurePopup.0.0.1920.1080" width="432" height="368" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1296" height="701" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="1077" height="754" />
+  </component>
+</application>

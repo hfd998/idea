@@ -1,0 +1,40 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.0.4-release-IJ2016.1-112" />
+    <property name="android-component-compatibility-check" value="1487641369182" />
+    <property name="file.chooser.recent.files" value="C:/Program Files/Genymobile/Genymotion&#10;E:/android/MyApplication&#10;E:/android&#10;C:/Program Files (x86)/Android/android-sdk&#10;E:/apache-tomcat-7.0.40/webapps&#10;D:/Java/jdk8&#10;E:/idea项目svn/fds&#10;C:/Users/huangfeida/Downloads/tuniu-code-formatting.xml&#10;E:/apache-tomcat-7.0.40/webapps/ued&#10;E:/idea项目svn/ticket/target/classes&#10;E:/idea项目svn/ticket/target/ticket&#10;E:/apache-tomcat-7.0.40/wtpwebapps&#10;E:/idea项目svn/ticket/target&#10;C:/Users/huangfeida/.m2/settings.xml&#10;E:/idea项目svn/ticket&#10;E:/idea项目svn/ticket/target/ticket/WEB-INF/classes&#10;E:/软件/springToolSuite/apache-maven-3.0.4/.m2/settings.xml&#10;E:/idea项目svn/ticket/pom.xml&#10;E:/idea项目svn&#10;C:/Users/Administrator/workspace/ticket_demo&#10;E:/apache-tomcat-7.0.40&#10;D:/Java/jdk1.6.0_30" />
+    <property name="last.imported.location" value="E:/idea项目svn/ticket" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="lastTip" value="1" />
+    <property name="project.wizard.group" value="org.jetbrains.android.newProject.AndroidWizardWrapper" />
+    <property name="project.wizard.template" value="Android" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="run.configuration.alternate.action.ad" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10851872" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10851872" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="selected.color.option.type" value="IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="search.everywhere.max.popup.width" value="680" />
+    <property name="KEYMAP" value="enter&#10;completion" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="PLUGIN_FILTER" value="Genymotion&#10;Jindent&#10;Templates&#10;code templates&#10;eclipse" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6857143" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spell" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="MobileminApi" value="23" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="KEY_GENYMOTION_PATH" value="C:\Program Files\Genymobile\Genymotion" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+</application>
